@@ -1,0 +1,5 @@
+SAMtools - [https://samtools.github.io/hts-specs/SAMv1.pdf]
+Sequence Alignment - [https://academic.oup.com/bioinformatics/article/25/16/2078/204688]
+IGV (Integrative Genome Viewer) - [https://igv.org/doc/desktop/]
+Variant Calling - [https://pmc.ncbi.nlm.nih.gov/articles/PMC3137218/]
+Nextflow - [https://www.nextflow.io/]
