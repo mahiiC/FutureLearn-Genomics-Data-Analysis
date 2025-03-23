@@ -1,5 +1,5 @@
 # Bioinformatics for Biologists: Analysing and Interpreting Genomics Datasets
-THis repository contains my notes for the FutureLearn course 'Bioinformatics for Biologists: Analysing and Interpreting Genomics Datasets' by Wellcome Connecting Science. This course aims to equip biologists with the essential skills to handle, analyze, and interpret large genomics datasets, enhancing their ability to tackle real-world research challenges.
+This repository contains my notes for the FutureLearn course 'Bioinformatics for Biologists: Analysing and Interpreting Genomics Datasets' by Wellcome Connecting Science. This course aims to equip biologists with the essential skills to handle, analyze, and interpret large genomics datasets, enhancing their ability to tackle real-world research challenges.
 
 ## Course Content
 
