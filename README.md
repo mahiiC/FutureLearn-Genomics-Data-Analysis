@@ -49,6 +49,4 @@ THis repository contains my notes for the FutureLearn course 'Bioinformatics for
 * **`Week2/`:** Contains workflow files, scripts, and notes related to Week 2.
 * **`Week3/`:** Contains R scripts, data files, and notes related to Week 3.
 * **`Data/`:** Contains example datasets used in the course.
-* **`Scripts/`:** Contains useful scripts for various tasks.
-* **`Notes/`:** Contains supplementary notes and explanations.
 * **`Resources/`:** Links to useful online resources.
